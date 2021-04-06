@@ -1,0 +1,5 @@
+Madame, Monsieur, 
+Ceci n'est pour l'instant que mon programme. Il sera, à la fin, divisée en trois partie permettant une simulation de combat. 
+Mais pour l'instant, comme je n'ai commencé ce projet que très récemment, seulement une des trois parties est complète. C'est
+donc celle-ci que je vous envoie. 
+S'il-vous-plaît, ouvrez le fichier "Invocation" sur edupython. 
